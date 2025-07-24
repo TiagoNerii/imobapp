@@ -2,25 +2,6 @@
 
 Sistema completo para gestão de leads e imóveis para corretores e imobiliárias.
 
-## 🚀 Configuração Rápida
-
-### 1. Configurar Supabase
-
-1. Acesse [supabase.com](https://supabase.com) e crie uma conta
-2. Crie um novo projeto
-3. Vá em Settings > API e copie:
-   - Project URL
-   - Anon public key
-
-### 2. Configurar Variáveis de Ambiente
-
-1. Copie o arquivo `.env.example` para `.env`
-2. Preencha com suas credenciais do Supabase:
-
-```env
-VITE_SUPABASE_URL=sua_url_do_supabase
-VITE_SUPABASE_ANON_KEY=sua_chave_anonima
-```
 
 ### 3. Criar Tabelas no Supabase
 
