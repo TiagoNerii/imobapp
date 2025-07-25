@@ -81,7 +81,7 @@ const RegisterForm: React.FC = () => {
       navigate('/dashboard');
     } catch {
       // Error is handled by the store
-    }
+    } //testando git
   };
   
   return (
